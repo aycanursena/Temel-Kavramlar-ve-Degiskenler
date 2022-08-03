@@ -21,7 +21,6 @@ public class DaireAlan_Cevre {
         System.out.print("Merkez Açısının Ölçüsü :");
         olcu = input.nextDouble();
 
-
         alan2 = ( pi * (yaricap * yaricap)) * olcu / 360 ;
         System.out.println("Yarıçap ve Ölçüsü Bilinen Dairenin Alanı :" + alan2);
     }
