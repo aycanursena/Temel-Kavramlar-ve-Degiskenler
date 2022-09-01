@@ -1,3 +1,4 @@
+```
 package Giris;
 import java.util.Scanner;
 
@@ -18,3 +19,4 @@ public class Taksimetre {
         System.out.println(odenecekTutar <= 20 ? odenecekTutar = 20 : odenecekTutar);
     }
 }
+```
