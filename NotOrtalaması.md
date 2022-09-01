@@ -1,3 +1,4 @@
+```
 package Giris;
 import java.util.Scanner;
 
@@ -30,3 +31,4 @@ public class OrtalamaHesapla {
         System.out.println(ortalama > 60 ? "Sınıfı Geçti" : "Sınıfta Kaldı");
     }
 }
+```
