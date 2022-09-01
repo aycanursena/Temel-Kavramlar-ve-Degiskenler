@@ -1,3 +1,4 @@
+```
 package Giris;
 import java.util.Scanner;
 
@@ -57,3 +58,4 @@ public class SinifiGeçmeDurumu {
             System.out.println("Sınıf Geçilemedi.");
     }
 }
+```
