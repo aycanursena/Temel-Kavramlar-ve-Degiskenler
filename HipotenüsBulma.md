@@ -1,4 +1,4 @@
-### HİPOTENÜS BULMA
+#### HİPOTENÜS BULMA
 ```
 package Giris;
 
@@ -23,7 +23,7 @@ public class HipotenusBulma {
     }
 }
 ```
-### ÜÇGENDE ALAN HESABI
+#### ÜÇGENDE ALAN HESABI
 ```
 package Giris;
 import java.util.Scanner;
