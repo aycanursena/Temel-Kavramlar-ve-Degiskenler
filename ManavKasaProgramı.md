@@ -1,3 +1,4 @@
+```
 package Giris;
 import java.util.Scanner;
 
@@ -37,3 +38,4 @@ public class ManavKasaProgramı {
         System.out.println("Ödenecek Tutar :" + odenecekTutar);
     }
 }
+```
