@@ -1,3 +1,4 @@
+```
 package Giris;
 import java.util.Scanner;
 
@@ -16,6 +17,6 @@ public class KDV_Hesapla {
         System.out.println("KDV Oranı : " + kdvOran);
         System.out.println("KDV Tutarı : " +kdvTutar);
         System.out.println("KDV'li Tutar : " + kdvliTutar);
-
     }
 }
+```
