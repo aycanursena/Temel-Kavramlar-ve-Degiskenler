@@ -1,3 +1,4 @@
+```
 package Giris;
 import java.util.Scanner;
 
@@ -16,3 +17,4 @@ public class VKI_Hesaplama {
         System.out.println("Vücut Kitle İndeksiniz :" + vki);
     }
 }
+```
