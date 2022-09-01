@@ -1,5 +1,5 @@
 ### HİPOTENÜS BULMA
-
+```
 package Giris;
 
 import javax.sound.midi.Soundbank;
@@ -22,9 +22,9 @@ public class HipotenusBulma {
         System.out.println("Hipotenüs :" + Math.sqrt(hipotenus));
     }
 }
-
+```
 ### ÜÇGENDE ALAN HESABI
-
+```
 package Giris;
 import java.util.Scanner;
 
@@ -50,3 +50,4 @@ public class UcgenAlanHesaplama {
         System.out.println("Üçgenin Alanı :" + Math.sqrt(alan));
     }
 }
+```
